@@ -1,6 +1,6 @@
 # EXPERIMENT 02 - INTEFACING A DIGITAL INPUT TO ARM DEVELOPMENT BOARD
-## Developed by: AKASH G
-## Register No.: 212224100004
+## Developed by : AKASH G
+## Register No. : 212224100004
 ## Aim: To Interface a Digital Input  (userpush button) to ARM   development board and write a  program to obtain  the data and flash the led  
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
 ## Theory 
@@ -196,6 +196,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Circuit :
 <img width="707" height="692" alt="Screenshot 2025-11-26 at 12 42 41 AM" src="https://github.com/user-attachments/assets/6bf2e988-db16-47e6-9d7a-0baafc85a582" />
+![488744329-79def860-fbf1-41d8-afd7-d9bbed956d2c](https://github.com/user-attachments/assets/50c96b5c-0cb0-47db-aced-af8b9f162410)
 
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
